@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.neu.dockertext.DockertextApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.897 s - in com.neu.dockertext.DockertextApplicationTests
